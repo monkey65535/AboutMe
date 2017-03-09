@@ -97,7 +97,8 @@
  - 一个简单的个人任务管理工具 页面中所有内容使用数据进行渲染。
  - 主要功能：左侧分类展示，添加，修改，右侧任务列表的展示添加修改，左右数据相关联，这是一个原生JS实现的升级版的todoMVC  
  
-项目源码：[https://github.com/monkey65535/todoList](https://github.com/monkey65535/todoList)
+项目源码：[https://github.com/monkey65535/todoList](https://github.com/monkey65535/todoList)  
+
 项目展示：[https://monkey65535.github.io/todoList/](https://monkey65535.github.io/todoList/)
 
 ### designeat
@@ -106,7 +107,8 @@
  -  本项目是自己平时写的小demo，里面的动画大多是CSS3实现，大量的使用transform、transition、animation等，也是对自己学习CSS3的一个锻炼。（因为只做了webkit内核的兼容，所以建议采用webkit内核的浏览器查看）。 
  -  本项目中自己封装了一些方便项目开发的方法，项目中也使用了视觉差的效果，增加页面的活泼性，可以给访客一种不死板无聊的感受。
 
- 源代码：[https://github.com/monkey65535/fullpage](https://github.com/monkey65535/fullpage) 
+ 源代码：[https://github.com/monkey65535/fullpage](https://github.com/monkey65535/fullpage)  
+ 
  预览：[https://monkey65535.github.io/fullpage/](https://monkey65535.github.io/fullpage/)
 
 ### 基于Vue实现的一个留言板
