@@ -114,13 +114,16 @@
 - 该项目为Vue.js的学习Demo
 - 数据渲染：本页面所有的数据交互信息，数据全是从php文件中请求，动态添加到页面中。使用vue的template的动态绑定和插值，使得页面结构简单易懂
 - 封装了时间转换filter，对Vue的filter有了更深的了解（在Vue2.0中取消了内置filter，所有的filter必须自己封装。）
-- 作为对比，在之前曾经使用原生JS实现过这个demo,并独立对ajax进行了封装
-源码地址（Vue版）：[https://github.com/monkey65535/VUE_learning/tree/master/weibo](https://github.com/monkey65535/VUE_learning/tree/master/weibo)
+- 作为对比，在之前曾经使用原生JS实现过这个demo,并独立对ajax进行了封装  
+
+源码地址（Vue版）：[https://github.com/monkey65535/VUE_learning/tree/master/weibo](https://github.com/monkey65535/VUE_learning/tree/master/weibo)  
+
 源码地址（原生JS版）：[https://github.com/monkey65535/AJAX-demo](https://github.com/monkey65535/AJAX-demo)
 
 ### Vue-sell（慕课网Vue.js实战，高仿饿了么外卖）  
 
--	基于Vue.js全家桶，ES6，webpack，scss实现的一个高仿饿了么外面商品页，目前正在使用Vue1.0实现中，完成之后使用Vue2.0重写。
+-	基于Vue.js全家桶，ES6，webpack，scss实现的一个高仿饿了么外面商品页，目前正在使用Vue1.0实现中，完成之后使用Vue2.0重写。  
+
 源码地址（Vue版）：[https://github.com/monkey65535/Vue-sell](https://github.com/monkey65535/Vue-sell)
 
 
